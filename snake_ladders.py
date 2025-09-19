@@ -1,4 +1,4 @@
-mport random
+import random
 
 def roll_dice():
     """Simulates rolling a standard six-sided die."""
